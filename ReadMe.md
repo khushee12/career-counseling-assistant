@@ -14,7 +14,7 @@ A chatbot assistant that provides tailored career guidance to students worldwide
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RaheesAhmed/Career-Counseling-Assistant.git
+   git clone  https://github.com/khushee12/career-counseling-assistant.git 
    ```
 
 2. Navigate to the project directory:
